@@ -19,7 +19,7 @@ function App() {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/survey">Encuesta</Link>
+            <Link to="/survey">Encuesaaata</Link>
           </li>
           <li>
             <Link to="/contact">Contacto</Link>
